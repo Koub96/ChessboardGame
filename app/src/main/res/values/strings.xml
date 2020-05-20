@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Chess Board Game</string>
+    <string name="back">BACK</string>
+    <string name="welcome_to_the_chessboard"><u>Welcome to the chessboard</u></string>
+    <string name="enter_the_dimension_of_the_chessboard">Enter the dimension of the Chessboard.</string>
+    <string name="begin">BEGIN</string>
+</resources>
